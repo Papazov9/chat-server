@@ -1,0 +1,4 @@
+11:43:52.270 [pool-1-thread-1] ERROR
+            log4j2-server - Error trying to access the input stream.
+11:44:06.374 [pool-1-thread-2] ERROR
+            log4j2-server - Error trying to access the input stream.

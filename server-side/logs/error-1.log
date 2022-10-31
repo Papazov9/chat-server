@@ -1,0 +1,23 @@
+14:01:40.742 [pool-1-thread-1] ERROR server.ChatServer - Error trying to access the input stream.
+14:03:55.669 [pool-1-thread-2] ERROR server.ChatServer - Error trying to access the input stream.
+14:06:00.993 [pool-2-thread-2] ERROR server.ChatServer - File was not found in the repository!
+14:07:52.407 [pool-1-thread-1] ERROR server.ChatServer - Error trying to access the input stream.
+14:20:24.976 [pool-1-thread-1] ERROR server.ChatServer - Error trying to access the input stream.
+14:24:46.675 [pool-1-thread-1] ERROR server.ChatServer - Connection reset by peer: socket write error
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method) ~[?:1.8.0_201]
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111) ~[?:1.8.0_201]
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:291) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:295) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141) ~[?:1.8.0_201]
+	at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229) ~[?:1.8.0_201]
+	at java.io.BufferedWriter.flush(BufferedWriter.java:254) ~[?:1.8.0_201]
+	at server.handlers.BaseHandler.writeToClient(BaseHandler.java:71) [classes/:?]
+	at server.handlers.ConnectionHandler.run(ConnectionHandler.java:83) [classes/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]

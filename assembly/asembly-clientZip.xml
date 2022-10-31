@@ -1,0 +1,35 @@
+<assembly
+    xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.3 http://maven.apache.org/xsd/assembly-1.1.3.xsd">
+    <id>clientZip</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <includeBaseDirectory>false</includeBaseDirectory>
+    <files>
+        <file>
+            <source>C:\DEV\eclipse\workspace\chat-server\target\client-1.jar
+            </source>
+        </file>
+
+        <file>
+            <source>C:\DEV\eclipse\workspace\chat-server\src\main\resources\clientLogConfig\log4j2.xml
+            </source>
+        </file>
+        <file>
+            <source>C:\DEV\eclipse\workspace\chat-server\src\main\resources\clientConfig.properties
+            </source>
+        </file>
+    </files>
+    <fileSets>
+        <fileSet>
+            <directory>C:\DEV\eclipse\workspace\chat-server\target\libs</directory>
+            <outputDirectory>.\dependencies</outputDirectory>
+            <includes>
+                <include>log4j-api-2.17.0.jar</include>
+                <include>log4j-core-2.17.0.jar</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+</assembly>

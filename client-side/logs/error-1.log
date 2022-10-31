@@ -1,0 +1,18 @@
+15:59:20.354 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_201]
+	at client.Client$1.run(Client.java:87) [classes/:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+16:05:09.218 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_201]
+	at client.Client$1.run(Client.java:87) [classes/:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+16:48:29.181 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_201]
+	at client.Client$1.run(Client.java:87) [classes/:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]

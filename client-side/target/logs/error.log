@@ -1,0 +1,6 @@
+11:14:35.510 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_332]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_332]
+	at client.Client$1.run(Client.java:88) [clientJar.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_332]

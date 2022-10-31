@@ -1,0 +1,10 @@
+10:53:27.128 [main] INFO  server.ChatServer - Started!
+11:12:53.223 [main] INFO  server.ChatServer - Started!
+11:14:23.799 [main] INFO  server.ChatServer - pesho has entered the chat!
+11:14:23.799 [main] INFO  server.ChatServer - New client has connected!
+11:19:31.456 [main] INFO  server.ChatServer - Started!
+11:19:38.001 [main] INFO  server.ChatServer - mencho has entered the chat!
+11:19:38.001 [main] INFO  server.ChatServer - New client has connected!
+11:20:18.049 [main] INFO  server.ChatServer - pesho has entered the chat!
+11:20:18.049 [main] INFO  server.ChatServer - New client has connected!
+11:21:19.362 [main] INFO  server.ChatServer - Server is shutted down!

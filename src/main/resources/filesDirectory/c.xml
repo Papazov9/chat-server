@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rootElement name="string" path="string">
+	<filter>
+		<include path="string"></include>
+		<exclude path="string"></exclude>
+		<include-set>
+			<path name="string"></path>
+		</include-set>
+		<exclude-set>
+			<path name="string"></path>
+		</exclude-set>
+	</filter>
+
+</rootElement>

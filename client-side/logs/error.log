@@ -1,0 +1,19 @@
+16:51:04.561 [pool-1-thread-1] ERROR client.Client - Unable to send the file to the srver!
+16:51:09.340 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_201]
+	at client.Client$1.run(Client.java:87) [classes/:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+16:51:34.925 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_201]
+	at client.Client$1.run(Client.java:87) [classes/:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+16:52:22.581 [Thread-1] ERROR client.Client - Stream closed
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getInIfOpen(BufferedInputStream.java:159) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.available(BufferedInputStream.java:410) ~[?:1.8.0_201]
+	at client.Client$1.run(Client.java:87) [classes/:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]

@@ -1,0 +1,80 @@
+13:59:10.422 [main] INFO  client.Client - Welcome
+13:59:37.990 [main] INFO  client.Client - The file with name: pic1.jpg was sent to the server from user: pesho!
+13:59:37.990 [main] INFO  client.Client - 
+14:00:00.746 [main] INFO  client.Client - Sending...
+14:01:40.740 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:02:06.784 [main] INFO  client.Client - Welcome
+14:02:15.682 [main] INFO  client.Client - Sending...
+14:03:55.668 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:05:54.798 [main] INFO  client.Client - Welcome
+14:06:00.993 [main] INFO  client.Client - File not found in the repository!
+14:06:12.406 [main] INFO  client.Client - Sending...
+14:07:52.406 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:19:27.411 [main] INFO  client.Client - Welcome
+14:19:40.151 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:21:37.373 [main] INFO  client.Client - Welcome
+14:21:46.226 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:24:03.738 [main] INFO  client.Client - Welcome
+14:24:11.016 [main] INFO  client.Client - gosho has entered the chat!
+14:24:11.025 [main] INFO  client.Client - Welcome
+14:24:12.652 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:24:12.653 [main] INFO  client.Client - pesho left the chat!
+14:24:19.541 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:24:29.552 [main] INFO  client.Client - Welcome
+14:24:34.676 [main] INFO  client.Client - gosho has entered the chat!
+14:24:34.686 [main] INFO  client.Client - gosho: hey
+14:24:34.686 [main] INFO  client.Client - Welcome
+14:24:36.673 [main] INFO  client.Client - gosho: hey
+14:24:38.419 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+14:24:38.420 [main] INFO  client.Client - pesho left the chat!
+15:28:27.752 [main] INFO  client.Client - Welcome
+15:28:40.453 [main] INFO  client.Client - Unable to save this file!
+15:28:40.453 [main] INFO  client.Client - 
+15:29:52.849 [main] INFO  client.Client - Welcome
+15:30:31.075 [main] INFO  client.Client - Unable to save this file!
+15:30:31.075 [main] INFO  client.Client - 
+15:31:05.900 [main] INFO  client.Client - Welcome
+15:33:26.716 [main] INFO  client.Client - Welcome
+15:34:41.019 [main] INFO  client.Client - Welcome
+15:34:49.781 [main] INFO  client.Client - The file with name: pic1.jpg was sent to the server from user: pesho!
+15:34:49.781 [main] INFO  client.Client - 
+15:35:00.091 [main] INFO  client.Client - Sending...
+15:36:37.755 [main] INFO  client.Client - Welcome
+15:36:43.318 [main] INFO  client.Client - Sending...
+15:38:45.803 [main] INFO  client.Client - Welcome
+15:38:52.465 [main] INFO  client.Client - Sending...
+15:40:18.758 [main] INFO  client.Client - Welcome
+15:40:25.362 [main] INFO  client.Client - Sending...
+15:41:23.079 [main] INFO  client.Client - Welcome
+15:41:28.848 [main] INFO  client.Client - Sending...
+15:52:27.731 [main] INFO  client.Client - Welcome
+15:56:01.850 [main] INFO  client.Client - Welcome
+15:56:13.060 [main] INFO  client.Client - Sending...
+15:59:11.086 [main] INFO  client.Client - Welcome
+15:59:17.401 [main] INFO  client.Client - Sending...
+16:04:53.780 [main] INFO  client.Client - Welcome
+16:05:05.131 [main] INFO  client.Client - Sending...
+16:47:21.395 [main] INFO  client.Client - Welcome
+16:48:04.697 [main] INFO  client.Client - Welcome
+16:48:25.388 [main] INFO  client.Client - The file with name: pic1.jpg was sent to the server from user: pesho!
+16:48:25.389 [main] INFO  client.Client - 
+16:50:57.243 [main] INFO  client.Client - Welcome
+16:51:04.570 [main] INFO  client.Client - The file with name: pic.jpg was sent to the server from user: pesho!
+16:51:04.570 [main] INFO  client.Client - 
+16:51:24.159 [main] INFO  client.Client - Welcome
+16:51:31.674 [main] INFO  client.Client - Sending...
+16:52:08.645 [main] INFO  client.Client - Welcome
+16:52:16.437 [main] INFO  client.Client - Sending...
+16:54:45.408 [main] INFO  client.Client - Welcome
+16:54:49.476 [main] INFO  client.Client - List of all Files:
+16:54:49.476 [main] INFO  client.Client - - pic.jpg
+16:54:49.476 [main] INFO  client.Client - - pic1.jpg
+16:55:05.747 [main] INFO  client.Client - GOSHO has entered the chat!
+16:55:05.753 [main] INFO  client.Client - Welcome
+16:55:13.691 [main] INFO  client.Client - pesho left the chat!
+09:31:58.997 [main] INFO  client.Client - Welcome
+09:33:01.300 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+09:33:58.485 [main] INFO  client.Client - Welcome
+09:34:07.352 [main] INFO  client.Client - Kicked out of the server due to inactivity!
+09:34:34.758 [main] INFO  client.Client - Welcome
+09:34:43.597 [main] INFO  client.Client - Kicked out of the server due to inactivity!

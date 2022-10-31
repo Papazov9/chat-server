@@ -1,0 +1,4 @@
+11:14:23.799 [main] INFO  client.Client - Welcome
+11:14:33.152 [main] INFO  client.Client - Current time is: Thursday, October 27, 2022 11:14:33
+11:20:18.055 [main] INFO  client.Client - Welcome
+11:20:24.507 [main] INFO  client.Client - mencho: hello

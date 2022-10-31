@@ -1,0 +1,11 @@
+server\handlers\ConnectionHandler.class
+server\properties\PropertiesManager.class
+server\handlers\ConnectionHandler$2.class
+server\license\LicenseManagerImpl.class
+server\ChatServer.class
+server\handlers\BaseHandler.class
+server\handlers\ConnectionHandler$1.class
+server\repository\FileRepository.class
+server\license\LicenseManager.class
+server\repository\FileRepository$1.class
+server\handlers\WaitHandler.class
